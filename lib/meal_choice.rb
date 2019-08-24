@@ -1,4 +1,4 @@
-def meal_choice(veg1,veg2)
+def meal_choice(veg1,veg2,protein="meat")
   veg1="broccoli"
   veg2="macaroni"
   puts "What a nutritious meal!"
